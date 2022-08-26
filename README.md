@@ -1,0 +1,2 @@
+# getAllApps
+uniapp
